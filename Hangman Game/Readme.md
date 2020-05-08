@@ -14,7 +14,7 @@ In this mini project we are going to understand the basic concept of python incl
 * Don’t use repeated letters.
 * Turns will be decremented after every guess.
 
-![alt text](https://github.com/abhisngh/Basic-Python/Hangman/blob/master/Preview.jpg "Logo Title Text 1")
+![alt text](https://github.com/abhisngh/Basic-Python/blob/master/Hangman%20Game/Preview.jpg )
 
 ## Library needed
 * [random](https://docs.python.org/3/library/random.html)
