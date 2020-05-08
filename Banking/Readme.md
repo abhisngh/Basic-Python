@@ -12,7 +12,7 @@ In this we are having two Main Working function:
 
 There are list of choices provided to the person and on the basis of that, whole banking like software is made here for beginner level. In this project, the main is to only give the ideas about the working concepts of python.
 
-![alt text](https://github.com/abhisngh/Basic-Python/blob/master/Banking%20Game/Preview.jpg )
+![alt text](https://github.com/abhisngh/Basic-Python/blob/master/Banking/Preview.jpg )
 
 ## Steps
  * In Exploration_template.ipynb the template for practice is given.
